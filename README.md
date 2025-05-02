@@ -24,7 +24,7 @@
 
 Bloxstrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
 
-Running into a problem or need help with something? [Check out the Wiki](https://github.com/bloxstraplabs/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/bloxstraplabs/bloxstrap/issues).
+Running into a problem or need help with something? [Check out the Wiki](https://github.com/bloxstraplabs/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/ez1oo/bloxstrap/issues).
 
 Bloxstrap is only supported for PCs running Windows.
 
@@ -46,7 +46,7 @@ Bloxstrap is only supported for PCs running Windows.
 - Ability to configure graphics fidelity and UI experience
 
 ## Installing
-Download the [latest release of Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
+Download the [latest release of Bloxstrap](https://github.com/ez1oo/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
 
 Alternatively, you can install Bloxstrap via [Winget](https://winstall.app/apps/pizzaboxer.Bloxstrap) by running this in a Command Prompt window:
 ```
@@ -73,10 +73,10 @@ Bloxstrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the use
 [shield-discord-server]: https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff
 [shield-tenor-meme]:     https://img.shields.io/badge/mom_made-pizza_rolls-orange
 
-[repo-license]:  https://github.com/bloxstraplabs/bloxstrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/bloxstraplabs/bloxstrap/actions
-[repo-releases]: https://github.com/bloxstraplabs/bloxstrap/releases
-[repo-latest]:   https://github.com/bloxstraplabs/bloxstrap/releases/latest
+[repo-license]:  https://github.com/ez1oo/bloxstrap/blob/main/LICENSE
+[repo-actions]:  https://github.com/ez1oo/bloxstrap/actions
+[repo-releases]: https://github.com/ez1oo/bloxstrap/releases
+[repo-latest]:   https://github.com/ez1oo/bloxstrap/releases/latest
 
 [crowdin-project]: https://crowdin.com/project/bloxstrap
 [discord-invite]:  https://discord.gg/nKjV3mGq6R
